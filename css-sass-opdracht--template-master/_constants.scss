@@ -1,0 +1,9 @@
+$background-main: #c0eea9;
+$background-second: #97d279;
+$padding: 20px;
+
+@mixin tekst {
+  max-width: 700px;
+  text-align: center;
+  padding: $padding;
+}
